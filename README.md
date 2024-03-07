@@ -1,2 +1,2 @@
-"my name is Pratyush"
-"myself Pratyush i am studying in kpt"
+My name is Pratyush
+Myself Pratyush i am studying in KPT
